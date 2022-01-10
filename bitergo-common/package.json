@@ -1,0 +1,24 @@
+{
+  "name": "bitergo-common",
+  "version": "0.0.1",
+  "author": "VolAndriienko",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VolAndriienko/bitergo-common"
+  },
+  "homepage": "https://github.com/VolAndriienko/bitergo-common",
+  "peerDependencies": {
+    "@angular/cdk": "^12.2.11",
+    "@angular/common": "^12.2.11",
+    "@angular/compiler": "^12.2.11",
+    "@angular/core": "^12.2.11",
+    "@angular/forms": "^12.2.11",
+    "@angular/platform-browser": "^12.2.11",
+    "@angular/platform-browser-dynamic": "^12.2.11",
+    "rxjs": "^6.6.7",
+    "zone.js": "~0.11.4"
+  },
+  "dependencies": {
+    "tslib": "^2.3.1"
+  }
+}
